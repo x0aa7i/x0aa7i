@@ -39,8 +39,8 @@ Front-End Developer from Rabat, Morocco. I write code, break things, fix them, a
   <summary><strong>⚡ Github Overview</strong></summary>
   <br />
 
-  <img height="180em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=x0aa7i&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-  <img height="180em" alt="Github top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0aa7i&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="180em" alt="Github Stats" src="https://github-readme-stats-virid-theta.vercel.app/api?username=x0aa7i&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180em" alt="Github top language" src="https://github-readme-stats-virid-theta.vercel.app/api/top-langs/?username=x0aa7i&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </details>
 
 <details>
