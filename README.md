@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-Front-End Developer from Rabat, Morocco. I write code, break things, fix them, and repeat — usually tinkering with pixels or trying to name a variable just right.
+Front-End Developer based in Rabat, Morocco. I write code, break things, fix them, and repeat — probably tinkering with pixels or trying to name a variable right now.
 
 - 🛠 I’m currently working with **Svelte** and **Typescript**
 - 👨‍💻 Read more about my projects at [achak.dev](https://achak.dev)
@@ -37,7 +37,6 @@ Front-End Developer from Rabat, Morocco. I write code, break things, fix them, a
 
 <details>
   <summary><strong>⚡ Github Overview</strong></summary>
-  <br />
 
   <img height="180em" alt="Github Stats" src="https://github-readme-stats-virid-theta.vercel.app/api?username=x0aa7i&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
   <img height="180em" alt="Github top language" src="https://github-readme-stats-virid-theta.vercel.app/api/top-langs/?username=x0aa7i&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
@@ -45,7 +44,6 @@ Front-End Developer from Rabat, Morocco. I write code, break things, fix them, a
 
 <details>
   <summary><strong>☄️ Contribution Streak</strong></summary>
-  <br />
 
   <img height="180em" alt='Github Streaks' src="https://nirzak-streak-stats.vercel.app/?user=x0aa7i&theme=tokyonight&hide_border=true" />
 </details>
