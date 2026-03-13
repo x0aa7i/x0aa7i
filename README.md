@@ -12,7 +12,7 @@ I design interfaces, write code, break things, fix them, and do it all over agai
 **Currently:**
 
 - 👨‍💻 Working with _Svelte_ and _Typescript_
-- 🌐 Showcasing projects at [achak.dev](https://achak.dev)
+- 🌐 Showcasing projects at [achak.co](https://achak.co)
 - 📫 Available at contact.achak@gmail.com
 
 ## 💻 Tech Stack
